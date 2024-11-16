@@ -4,8 +4,6 @@ Bashrc files configuration.
 
 ## Timestamp
 
-> ***NOTE: I'm using the xfce terminal.*** 
-
 To add a timestamp to the configuration file search for `PS1` in the `.bashrc` file.
 
 The timestamp is definied with the variables `\D{%Y-%m-%d %H:%M:%S}`.
